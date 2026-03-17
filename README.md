@@ -30,6 +30,7 @@ echo "HI" >> README.md
 
 - 직군: [금융권 개발자](https://www.google.com/search?q=%EA%B8%88%EC%9C%B5%EA%B6%8C+%EC%A0%84%EC%82%B0%EC%A7%81&oq=%EA%B8%88%EC%9C%A0&gs_lcrp=EgZjaHJvbWUqDAgBECMYJxiABBiKBTIGCAAQRRg5MgwIARAjGCcYgAQYigUyEwgCEC4YgwEYxwEYsQMY0QMYgAQyDQgDEAAYgwEYsQMYgAQyEwgEEC4YgwEYxwEYsQMY0QMYgAQyDQgFEAAYgwEYsQMYgAQyCggGEAAYsQMYgAQyEwgHEC4YgwEYrwEYxwEYsQMYgAQyEwgIEC4YgwEYxwEYsQMY0QMYgAQyDQgJEAAYgwEYsQMYgATSAQk1OTA2ajBqMTWoAgiwAgHxBdphxbmYZrdP&sourceid=chrome&ie=UTF-8)
 - 취미: 산책, 독서, 창작
+- 좋아하는 것: 푸른 하늘
 
 # 신규 변경 사항~
 
